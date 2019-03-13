@@ -34,9 +34,9 @@ var arr = [40,50,60];
   Return the last item in the given array.
 */
 
-//Code Here
-
-
+fuction localStorage(arr) {
+  return arr[arr.length - 1];
+}
 
 ////////// PROBLEM 3 //////////
 
